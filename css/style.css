@@ -1,0 +1,30 @@
+body {
+    text-align: center;
+    background-color: #B5CDAA;
+    font-family: Arial, Helvetica, sans-serif
+}
+
+h1 {
+    font-size: 50px;
+    text-decoration: underline;
+}
+
+ul {
+    list-style-type: none;
+}
+
+a {
+    color: deeppink;
+    text-decoration: none;
+}
+
+#volver {
+    font-size: small;
+}
+
+h4 {
+    font-size: 30px;
+}
+#tabla{
+    margin: auto;
+}
